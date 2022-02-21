@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Generation Jam à PFIA 2022
 
-You can use the [editor on GitHub](https://github.com/cecilia-afia/cecilia-jam-pfia2022.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Cette année, le Collège Cécilia de l’AFIA organise une Jam de génération de texte poétique, ou drôle, ou les deux.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Inspirée des Game Jam et autres Proc Jam, cet événement  proposera a ses participantes et ses participants de jouer ensemble à générer des textes en expérimentant avec des outils liés à la pratique de l'IA.
 
-### Markdown
+Une jam est un événement ludique où la créativité est mise en avant. C'est un moment de rencontres, et un lieu d'expérimentation où le partage de compétences et l'apprentissage de nouvelles techniques sont encouragés.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Déroulement
+La Jam se déroulera en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
 
-```markdown
-Syntax highlighted code block
+Après un événement de lancement, lors duquel des défis seront dévoilés (thèmes, contraintes sur la forme du texte généré), la jam a vocation a occuper les temps calmes de la conférence et fournir un espace de sociabilité. Une session de clôture permettra de rassembler les textes générés préférés des participantes et participants. 
 
-# Header 1
-## Header 2
-### Header 3
+Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes.
 
-- Bulleted
-- List
+## Participation
+Vous pouvez rejoindre la jam à tout moment de PFIA. Vous inscrire dès son lancement (ou dès votre arrivée) vous garantira des sujets de conversations pendant les pauses café.
 
-1. Numbered
-2. List
+Il vous suffira d'un ordinateur portable (nous ne prêtons pas de matériel), équipé de quoi développer avec les outils de votre choix.
 
-**Bold** and _Italic_ and `Code` text
+Le thème de l'événement a été choisi car il peut très bien se décliner avec de nombreuses techniques d'IA.
 
-[Link](url) and ![Image](src)
-```
+Vous pouvez bien sûr venir avec l'objectif d'illustrer la puissance créative de votre spécialité en IA, armé de votre modèle préalablement entraîné pour l'occasion. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Mais vous pouvez également venir avec l'intention d'expérimenter simplement avec des techniques ou bibliothèques qui vous étaient jusqu'alors inconnues. 
 
-### Jekyll Themes
+Vous pouvez venir en équipes constituées décidées à travailler ensemble. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cecilia-afia/cecilia-jam-pfia2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 
-### Support or Contact
+## Inspirations
+Cette section sera complétée au fur et à mesure de l'avancement de l'événement
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Quelques outils que vous pouvez trouver utiles
+Cette section sera complétée au fur et à mesure de l'avancement de l'événement
+
+## La génération du jour
+Cette section sera complétée au fur et à mesure de l'avancement de l'événement
