@@ -11,7 +11,9 @@ La Jam se déroulera en parallèle de la conférence principale, tout le long de
 
 Après un événement de lancement, lors duquel des défis seront dévoilés (thèmes, contraintes sur la forme du texte généré), la jam a vocation a occuper les temps calmes de la conférence et fournir un espace de sociabilité. Une session de clôture permettra de rassembler les textes générés préférés des participantes et participants. 
 
-Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes.
+Il sera possible de rejoindre l'événement à tout moment de PFIA. Si vous quittez la conférence avant l'événement de clôture, vous pourrez y participer à distance, et fournir vos textes générés préférés.
+
+Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourrons venir échanger et développer en équipes.
 
 ## Participation
 Vous pouvez rejoindre la jam à tout moment de PFIA. Vous inscrire dès son lancement (ou dès votre arrivée) vous garantira des sujets de conversations pendant les pauses café.
