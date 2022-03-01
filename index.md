@@ -1,4 +1,4 @@
-# Generation Jam à PFIA 2022
+# Jam Génération de texte à PFIA 2022
 
 Cette année, le Collège Cécilia de l’AFIA organise une Jam de génération de texte poétique, ou drôle, ou les deux.
 
