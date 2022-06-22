@@ -41,12 +41,12 @@ Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 - Défi **Haikuweather**: les membres du collège Cécilia venant de l'ouest de la France vous proposent de générer des petits textes poétiques, ou drôles, ou les deux, au sujet du temps qu'il fait.
 - Défi **Together**: les membres du collège Cécilia venant du sud de la France vous proposent de générer des petits textes poétiques, ou drôles, ou les deux, mettant en valeur le rôle de l'humain dans la création.
 - Défi **Guybrush Threepwood**: le GT IA et Jeux du GDR IA vous propose de générer des petits textes poétiques, ou drôles, ou les deux, dans le style d'un personnage célèbre de jeu vidéo.
-- Défi **Code Source**: l'IRILL vous  propose de générer des petits textes poétiques, ou drôles, ou les deux avec un code source comme l'une des entrée du système.
+- Défi **Code Source**: l'IRILL vous  propose de générer des petits textes poétiques, ou drôles, ou les deux avec un code source comme l'une des entrées du système.
 
 ## Quelques Inspirations
-- Un système de génération de jeux de mots en utilisant des modèles de langage ainsi que la distance sémantique pour créer un effet humoristique: [Pun Generation with Surprise] (https://github.com/hhexiy/pungen)
-- Un système pour créer des titres humoristiques à partir de titres ne l'étant pas: (https://github.com/orionw/humorTranslate)
-- Le générateur poétique de Tim Van de Cruys, présenté lors d'éditions précédentse de PFIA [Automatic Poetry Generation from Prosaic Text](https://github.com/timvdc/poetry)
+- Un système de génération de jeux de mots en utilisant des modèles de langage ainsi que la distance sémantique pour créer un effet humoristique: [Pun Generation with Surprise](https://github.com/hhexiy/pungen)
+- Un système pour créer des titres humoristiques à partir de titres ne l'étant pas: [Humorous Headline Generation via Style Transfer (a.k.a. Humor Translation)](https://github.com/orionw/humorTranslate)
+- Le générateur poétique de Tim Van de Cruys, présenté lors d'éditions précédentes de PFIA [Automatic Poetry Generation from Prosaic Text](https://github.com/timvdc/poetry)
 - Comment générer des jeux de mots et faire rire avec du tabou, à partir d'un corpus de SMS. *No ML* [“Let Everything Turn Well in Your Wife”: Generation of Adult Humor Using Lexical Constraints](https://aclanthology.org/P13-2044/)
 - [Les contraintes de l'Oulipo](https://www.oulipo.net/fr/contraintes)
 - [La page de Darius Kazemi, artiste en génération procédurale](https://tinysubversions.com/)
