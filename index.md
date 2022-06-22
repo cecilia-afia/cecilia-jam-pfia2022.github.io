@@ -47,7 +47,7 @@ Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 - Un système de génération de jeux de mots en utilisant des modèles de langage ainsi que la distance sémantique pour créer un effet humoristique: [Pun Generation with Surprise] (https://github.com/hhexiy/pungen)
 - Un système pour créer des titres humoristiques à partir de titres ne l'étant pas: (https://github.com/orionw/humorTranslate)
 - Le générateur poétique de Tim Van de Cruys, présenté lors d'éditions précédentse de PFIA [Automatic Poetry Generation from Prosaic Text](https://github.com/timvdc/poetry)
-- Comment générer des jeux de mots et faire rire avec du tabou, à partir d'un corpus de SMS [“Let Everything Turn Well in Your Wife”: Generation of Adult Humor Using Lexical Constraints](https://aclanthology.org/P13-2044/)
+- Comment générer des jeux de mots et faire rire avec du tabou, à partir d'un corpus de SMS. *No ML* [“Let Everything Turn Well in Your Wife”: Generation of Adult Humor Using Lexical Constraints](https://aclanthology.org/P13-2044/)
 - [Les contraintes de l'Oulipo](https://www.oulipo.net/fr/contraintes)
 - [La page de Darius Kazemi, artiste en génération procédurale](https://tinysubversions.com/)
 - et, bien sûr, [la Machine à écrire de Jean Baudot (1964)](https://archive.org/details/xfoml0001/page/n13/mode/2up)
@@ -77,6 +77,7 @@ Pour mettre tout cela en contexte: présentation de l'événement lors de la jou
 - Florence Bannay, IRIT
 - Anne-Gwenn Bosser, Lab-STICC, ENIB
 - Victor Charpennay, EMSE
+- Pierre De Loor, Lab-STICC, ENIB
 - Aymeric Henard, Lab-STICC, UBO
 - Florian Marchal-Bornert, LORIA, agoraa et Université Nancy 2
 - Alessandro Valitutti (à distance)
