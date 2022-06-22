@@ -10,13 +10,15 @@ Inspirée des Game Jams et Proc Jams, cet événement proposera a ses participan
 Une jam est un événement ludique où la créativité est mise en avant. C'est un moment de rencontres, et un lieu d'expérimentation où le partage de compétences et l'apprentissage de nouvelles techniques sont encouragés.
 
 ## Déroulement
-La Jam se déroulera en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
+La Jam se déroule en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
 
-Après un événement de lancement, lors duquel des défis seront dévoilés (thèmes, contraintes sur la forme du texte généré), la jam a vocation à occuper les temps calmes de la conférence et à fournir un espace physique de sociabilité. Une session de clôture permettra de rassembler les textes générés préférés des participantes et participants. 
+Des défis particuliers sont proposés par le collège et d'autres organisations (thèmes, contraintes sur la forme du texte généré). La jam a vocation à occuper les temps calmes de la conférence et à fournir un espace physique de sociabilité. La session de clôture se déroulera en mode hybride et permettra de rassembler les textes générés préférés des participantes et participants et leurs impressions sur l'événement. 
 
 Il sera possible de rejoindre l'événement à tout moment de PFIA. Si vous quittez la conférence avant l'événement de clôture, vous pourrez y participer à distance, et fournir vos textes générés préférés.
 
-Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes.
+Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes. 
+
+Un serveur Discord permet aux participants inscrits d'échanger.
 
 ## Participation
 Vous pouvez rejoindre la jam à tout moment de PFIA. Vous inscrire dès son lancement (ou dès votre arrivée) vous garantira des sujets de conversations pendant les pauses café.
