@@ -76,6 +76,7 @@ Pour mettre tout cela en contexte: présentation de l'événement lors de la jou
 ### Animation de l'événement
 - Florence Bannay, IRIT
 - Anne-Gwenn Bosser, Lab-STICC, ENIB
+- Victor Charpennay, EMSE
 - Aymeric Henard, Lab-STICC, UBO
 - Florian Marchal-Bornert, LORIA, agoraa et Université Nancy 2
 - Alessandro Valitutti (à distance)
