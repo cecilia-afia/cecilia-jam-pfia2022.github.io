@@ -59,7 +59,7 @@ Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 ## Autres Ressources
 Mini-projets en Français, réalisés par des étudiantes et étudiants en quelques jours:
 [génération interactive poétique en Français avec GPT2](https://git.enib.fr/deloor/poesygeneration/-/tree/pytorch)
-[essayer de générer des jeux de mots en Français avec le modèle de langage Jurassic, et Fastttext](
+[essayer de générer des jeux de mots en Français avec le modèle de langage Jurassic, et Fastttext](https://gitlab.com/loicgle/computational-humor-pun-generation)
 
 Pour mettre tout cela en contexte: présentation de l'événement lors de la journée PDIA en Avril 2022
 
