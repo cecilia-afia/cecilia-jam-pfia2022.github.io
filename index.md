@@ -56,7 +56,7 @@ Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 ## Quelques outils que vous pouvez trouver utiles, en plus de vos outils habituels
 - [Lexique 3](http://www.lexique.org/), et le projet openlexicon (Boris New et Christophe Pallier). Ce lexique très riche pour la langue française vous permettra par exemple d'obtenir la forme phonétique, la fréquence d'utilisation, et beaucoup d'autres informations morphologiques et linguistiques pour traiter les mots avec vos programmes.
 - Les réseaux sémantiques peuvent vous aider à calculer la distance sémantique des mots: par exemple [ConceptNet](https://conceptnet.io/) qui utilise des [word embeddings](https://github.com/commonsense/conceptnet-numberbatch).
-- nous échangerons des liens vers des corpus sur le groupe Discord lors de l'événement comme par exemple le corpus de calembours recueillis lors de [l'atelier JOKER à CLEF 2022](https://www.joker-project.com/clef-2022/EN/project.html).
+- nous échangerons des liens vers des corpus qu'on peut utiliser avec des gros modèles de langage pré-entrainés sur le groupe Discord lors de l'événement comme par exemple le corpus de calembours recueillis lors de [l'atelier JOKER à CLEF 2022](https://www.joker-project.com/clef-2022/EN/project.html).
 
 ## Autres Ressources
 Mini-projets en Français, réalisés par des étudiantes et étudiants en quelques jours:
@@ -77,9 +77,9 @@ Pour mettre tout cela en contexte: présentation de l'événement lors de la jou
 - Florence Bannay, IRIT
 - Anne-Gwenn Bosser, Lab-STICC, ENIB
 - Victor Charpennay, EMSE
-- Pierre De Loor, Lab-STICC, ENIB
+- Pierre De Loor, Lab-STICC, ENIB (à distance)
 - Aymeric Henard, Lab-STICC, UBO
-- Florian Marchal-Bornert, LORIA, agoraa et Université Nancy 2
+- Florian Marchal-Bornert, LORIA, agoraa et Université de Lorraine
 - Alessandro Valitutti (à distance)
 ### Tests des ressources et outils
 - Rym Bousrih, ENIB
