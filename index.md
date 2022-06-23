@@ -9,6 +9,8 @@ Inspirée des Game Jams et Proc Jams, cet événement proposera a ses participan
 
 Une jam est un événement ludique où la créativité est mise en avant. C'est un moment de rencontres, et un lieu d'expérimentation où le partage de compétences et l'apprentissage de nouvelles techniques sont encouragés.
 
+## Lancement: Rendez-vous Lundi 17h30 salle ??
+
 ## Déroulement
 La Jam se déroule en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
 
@@ -60,10 +62,14 @@ Mais vous pouvez également venir seul·e et trouver à qui parler sur place.
 
 ## Autres Ressources
 Mini-projets en Français, réalisés par des étudiantes et étudiants en quelques jours:
-[génération interactive poétique en Français avec GPT2](https://git.enib.fr/deloor/poesygeneration/-/tree/pytorch)
-[essayer de générer des jeux de mots en Français avec le modèle de langage Jurassic, et Fastttext](https://gitlab.com/loicgle/computational-humor-pun-generation)
+- [génération interactive poétique en Français avec GPT2](https://git.enib.fr/deloor/poesygeneration/-/tree/pytorch)
+- [essayer de générer des jeux de mots en Français avec le modèle de langage Jurassic, et Fastttext](https://gitlab.com/loicgle/computational-humor-pun-generation)
 
-Pour mettre tout cela en contexte: présentation de l'événement lors de la journée PDIA en Avril 2022
+Pour mettre tout cela en contexte: présentation de l'événement lors de la journée PDIA en Avril 2022:
+- [Support de présentation](https://github.com/cecilia-afia/cecilia-jam-pfia2022.github.io/blob/gh-pages/cecilia_pdia_diffuse.pdf)
+- Vidéo de la présentation
+
+[![Vidéo de la présentation](https://i9.ytimg.com/vi/R6xgWjrhDnc/mq1.jpg?sqp=CLiz0pUG&rs=AOn4CLAIEaG7RPikB8bjnU6wO_umyma7eg)](https://youtu.be/R6xgWjrhDnc "Vidéo de la présentation")
 
 ## Crédits
 
