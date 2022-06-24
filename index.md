@@ -11,9 +11,7 @@ Une jam est un événement ludique où la créativité est mise en avant. C'est 
 
 Présentation de l'événement lors de la journée PDIA en Avril 2022:
 - [Support de présentation](https://github.com/cecilia-afia/cecilia-jam-pfia2022.github.io/blob/gh-pages/cecilia_pdia_diffuse.pdf)
-- Vidéo de la présentation
-
-[![Vidéo de la présentation](https://i9.ytimg.com/vi/R6xgWjrhDnc/mq1.jpg?sqp=CLiz0pUG&rs=AOn4CLAIEaG7RPikB8bjnU6wO_umyma7eg)](https://youtu.be/R6xgWjrhDnc "Vidéo de la présentation")
+- [Vidéo de la présentation](https://youtu.be/R6xgWjrhDnc)
 
 
 ## Lancement: Rendez-vous Lundi 17h30 salle ??
