@@ -3,11 +3,11 @@ Le casse-tête a fait tomber le sot
 
 # Jam Génération de texte à PFIA 2022
 
-Cette année, le Collège Cécilia de l’AFIA organise une Jam de génération de texte poétique, ou drôle, ou les deux.
+Cette année, le Collège Cécilia de l’AFIA organise une **Jam de génération de texte** poétique, ou drôle, ou les deux.
 
-Inspirée des Game Jams et Proc Jams, cet événement proposera a ses partipant·es de jouer ensemble à générer des textes en expérimentant avec des outils liés à la pratique de l'IA.
+Inspirée des Game Jams et Proc Jams, cet événement proposera a ses partipant·es de jouer ensemble à **générer des textes** en expérimentant avec des outils liés à la pratique de l'IA.
 
-Une jam est un événement ludique où la créativité est mise en avant. C'est un moment de rencontres, et un lieu d'expérimentation où le partage de compétences et l'apprentissage de nouvelles techniques sont encouragés.
+Une jam est un événement ludique où la créativité est mise en avant. C'est un moment de rencontres, et un lieu d'**expérimentation** où le partage de compétences et l'apprentissage de nouvelles techniques sont encouragés.
 
 Présentation de l'événement lors de la journée PDIA en Avril 2022:
 - [Support de présentation](https://github.com/cecilia-afia/cecilia-jam-pfia2022.github.io/blob/gh-pages/cecilia_pdia_diffuse.pdf)
@@ -16,10 +16,10 @@ Présentation de l'événement lors de la journée PDIA en Avril 2022:
 
 ## Lancement: Rendez-vous Lundi 17h30 [salle 121 à l'EMSE](https://ci.mines-stetienne.fr/pfia2022/infos-locales/acces/#salles-emse-1ET) pour dévoiler les défis et les premières inscriptions!
 
-![](https://ci.mines-stetienne.fr/pfia2022/img/EMSE_2ET.png)
+<img src="https://ci.mines-stetienne.fr/pfia2022/img/EMSE_2ET.png" width="800">
 
 ## Déroulement
-La Jam se déroule en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
+La Jam se déroulera **tout le long de la semaine** de PFIA 2022. 
 
 Des défis particuliers sont proposés par le collège et d'autres organisations (thèmes, contraintes sur la forme du texte généré). La jam a vocation à occuper les temps calmes de la conférence et à fournir un espace physique de sociabilité. La session de clôture se déroulera en mode hybride et permettra de rassembler les textes générés préférés des partipant·es et leurs impressions sur l'événement. 
 
