@@ -14,7 +14,9 @@ Présentation de l'événement lors de la journée PDIA en Avril 2022:
 - [Vidéo de la présentation](https://youtu.be/R6xgWjrhDnc)
 
 
-## Lancement: Rendez-vous Lundi 17h30 salle ??
+## Lancement: Rendez-vous Lundi 17h30 [salle 121 à l'EMSE](https://ci.mines-stetienne.fr/pfia2022/infos-locales/acces/#salles-emse-1ET) pour dévoiler les défis et les premières inscriptions!
+
+![](https://ci.mines-stetienne.fr/pfia2022/img/EMSE_2ET.png)
 
 ## Déroulement
 La Jam se déroule en parallèle de la conférence principale, tout le long de la semaine de PFIA 2022. 
@@ -23,7 +25,7 @@ Des défis particuliers sont proposés par le collège et d'autres organisations
 
 Il sera possible de rejoindre l'événement à tout moment de PFIA. Si vous quittez la conférence avant l'événement de clôture, vous pourrez y participer à distance, et fournir vos textes générés préférés.
 
-Une salle au coeur de PFIA sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes. 
+La salle 121 de l'EMSE sera à la disposition des partipant·e·s qui pourront venir échanger et développer en équipes, et choisir ensemble la génération du moment à afficher sur le tableau. 
 
 Un serveur Discord permet aux partipant·es inscrits d'échanger.
 
