@@ -13,7 +13,7 @@ Mercredi:
 - Les vieux jardiniers ne meurent jamais, ils sèment juste leurs dernières années 
 
 Jeudi:
-- "Gouache wesh ! Maintenant chevalet faire un peu de peinture" dit Tom d'un air pince"
+- "Gouache wesh ! Maintenant chevalet faire un peu de peinture" dit Tom d'un air pincé"
 - Mot valise préféré "Volkangourou"
 - GPT-3 qui a appris avec 5 résumés de films et le titre "Narguiléviathan" généré la veille :
 "Dans un futur proche, la pollution et les guerres ont rendu la surface de la Terre inhabitable. La population a donc dû se réfugier dans les profondeurs des océans, où elle vit dans des stations sous-marines. Pour se divertir, les habitants de ces stations passent leur temps à fumer des narguilés géants, appelés « leviathans ». Lorsque le leviathan de la station sous-marine « Babel » est détruit, les habitants doivent se débrouiller avec les moyens du bord pour le reconstruire."
